@@ -1,0 +1,17 @@
+.header {
+    border-radius: 5px;
+    border-color: blue;
+    border-style: solid;
+    margin: 30px;
+
+}
+
+.nav {
+    text-align: center;
+    margin: 7px;
+}
+
+.body {
+    text-align: center;
+    background-color:lavender;
+}

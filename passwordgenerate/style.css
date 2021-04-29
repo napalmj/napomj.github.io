@@ -1,0 +1,22 @@
+.body {
+    background-color: aliceblue;
+}
+
+.header {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.form-pwd-collect {
+    font-size: x-large;
+    margin: 30px;
+}
+
+.div-pwd-return {
+    font-size: larger;
+    margin: 30px;
+}

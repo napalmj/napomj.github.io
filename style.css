@@ -28,6 +28,7 @@ header {
 
 section {
     padding: 10px;
+    align-items: center;
 }
 .logo {
     width: 200px;
@@ -53,4 +54,12 @@ section {
 .div-pwd-return {
     font-size: larger;
     margin: 30px;
+}
+
+select {
+    color: azure;
+}
+
+input {
+    color: azure;
 }

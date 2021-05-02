@@ -1,0 +1,56 @@
+* {
+    box-sizing:  border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #123455;
+}
+
+body {
+    font-size: 16px;
+    color: white;
+    margin: 3px;
+}
+
+li, a, button {
+    font-family: 'Antonio', sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+section {
+    padding: 10px;
+}
+.logo {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.nav-bar {
+    list-style: none;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.form-pwd-collect {
+    font-size: x-large;
+    margin: 30px;
+    color: white;
+}
+
+.div-pwd-return {
+    font-size: larger;
+    margin: 30px;
+}

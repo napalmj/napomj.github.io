@@ -45,10 +45,6 @@ header .btn:hover {
     color: rgb(46, 240, 247);
 }
 
-/* #about-me:hover, #projects:hover, #pwd-gen:hover, #contact-me:hover {
-    background-color: #123468;
-} */
-
 /* Main Styling */
 
 body {
@@ -72,8 +68,15 @@ section {
 }
 
 .div-pwd-return {
+    padding: 70px;
     font-size: larger;
     margin: 30px;
+}
+
+#pwd-gen {
+    position: relative;
+    display: list-item;
+    text-align: center;
 }
 
 /* Sectional image overlay formatting */
@@ -99,7 +102,7 @@ section {
 }
 
 .backpacking-text, .travel-text, .scripting-text, .C-CPP-text, .unity-text, .web-text {
-    opacity: 10%;
+    opacity: 18%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -107,7 +110,7 @@ section {
     color: white;
     text-align: center;
     font-weight: 900;
-    font-size: 30px;
+    font-size: 2vw;
     width: 100%;
     height: 100%;
     background-color: black;

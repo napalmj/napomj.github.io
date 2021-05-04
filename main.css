@@ -1,0 +1,26 @@
+
+
+body {
+    font-size: 16px;
+    color: white;
+    margin: 3px;
+    background-color: #123455;
+}
+
+section {
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.form-pwd-collect {
+    font-size: x-large;
+    margin: 30px;
+    color: white;
+}
+
+.div-pwd-return {
+    font-size: larger;
+    margin: 30px;
+}

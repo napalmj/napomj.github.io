@@ -1,0 +1,50 @@
+header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.nav-bar {
+    list-style: none;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+li, header a, button {
+    font-family: 'Antonio', sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+ header a:hover {
+     color: rgb(46, 240, 247);
+     font-size: larger;
+ }
+
+header .btn {
+    color: white;
+    padding: 5px;
+    background-color: #123468;
+}
+
+header .btn:hover {
+    font-size: larger;
+    color: rgb(46, 240, 247);
+}
+
+#about-me:hover, #projects:hover, #pwd-gen:hover, #contact-me:hover {
+    background-color: #123468;
+}
+
+

@@ -1,6 +1,6 @@
 
 
 function ShowContactInfo(){
-    alert("Name: Nathaniel Palmer\nEmail: nathanieljpalmer@hotmail.com");
+    alert("Name: Nathaniel Palmer\nEmail: nathanieljpalmer@outlook.com");
 }
 
